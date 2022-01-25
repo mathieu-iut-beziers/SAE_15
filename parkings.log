@@ -1,91 +1,571 @@
 Nom du parking : ANTI
 Nombre total de places : 0239
-Nombre de places libres : 0158
-Pourcentage de place libre : 66 %
+Nombre de places libres : 0133
+Pourcentage de place libre : 56 %
 Nom du parking : COME
 Nombre total de places : 0835
-Nombre de places libres : 0514
-Pourcentage de place libre : 62 %
+Nombre de places libres : 0424
+Pourcentage de place libre : 51 %
 Nom du parking : CORU
 Nombre total de places : 0430
-Nombre de places libres : 0269
-Pourcentage de place libre : 63 %
+Nombre de places libres : 0225
+Pourcentage de place libre : 52 %
 Nom du parking : EURO
 Nombre total de places : 0593
-Nombre de places libres : 0484
-Pourcentage de place libre : 82 %
+Nombre de places libres : 0308
+Pourcentage de place libre : 52 %
 Nom du parking : FOCH
 Nombre total de places : 0540
-Nombre de places libres : 0207
-Pourcentage de place libre : 38 %
+Nombre de places libres : 0183
+Pourcentage de place libre : 34 %
 Nom du parking : GAMB
 Nombre total de places : 0470
-Nombre de places libres : 0134
-Pourcentage de place libre : 29 %
+Nombre de places libres : 0101
+Pourcentage de place libre : 21 %
 Nom du parking : GARE
 Nombre total de places : 656
-Nombre de places libres : 384
-Pourcentage de place libre : 59 %
+Nombre de places libres : 323
+Pourcentage de place libre : 49 %
 Nom du parking : Triangle
 Nombre total de places : 436
-Nombre de places libres : 297
-Pourcentage de place libre : 68 %
+Nombre de places libres : 147
+Pourcentage de place libre : 34 %
 Nom du parking : ARCT
 Nombre total de places : 0460
-Nombre de places libres : 0164
-Pourcentage de place libre : 36 %
+Nombre de places libres : 0128
+Pourcentage de place libre : 28 %
 Nom du parking : Pitot
 Nombre total de places : 588
-Nombre de places libres : 406
-Pourcentage de place libre : 69 %
+Nombre de places libres : 263
+Pourcentage de place libre : 45 %
 Nom du parking : CIRC
 Nombre total de places : 1200
 Nombre de places libres : 0585
 Pourcentage de place libre : 49 %
 Nom du parking : SABI
 Nombre total de places : 0485
-Nombre de places libres : 0409
-Pourcentage de place libre : 84 %
+Nombre de places libres : 0264
+Pourcentage de place libre : 54 %
 Nom du parking : GARD
 Nombre total de places : 0395
-Nombre de places libres : 0307
-Pourcentage de place libre : 78 %
+Nombre de places libres : 0214
+Pourcentage de place libre : 54 %
 Nom du parking : SABL
 Nombre total de places : 0372
-Nombre de places libres : 0237
-Pourcentage de place libre : 64 %
+Nombre de places libres : 0089
+Pourcentage de place libre : 24 %
 Nom du parking : MOSS
 Nombre total de places : 0423
-Nombre de places libres : 0403
-Pourcentage de place libre : 95 %
+Nombre de places libres : 0298
+Pourcentage de place libre : 70 %
 Nom du parking : SJLC
 Nombre total de places : 0290
-Nombre de places libres : 0211
-Pourcentage de place libre : 73 %
+Nombre de places libres : 0157
+Pourcentage de place libre : 54 %
 Nom du parking : MEDC
 Nombre total de places : 0255
-Nombre de places libres : 0172
-Pourcentage de place libre : 67 %
+Nombre de places libres : 0100
+Pourcentage de place libre : 39 %
 Nom du parking : OCCI
 Nombre total de places : 0627
-Nombre de places libres : 0627
-Pourcentage de place libre : 100 %
+Nombre de places libres : 0303
+Pourcentage de place libre : 48 %
 Nom du parking : VICA
 Nombre total de places : 0074
-Nombre de places libres : 0060
-Pourcentage de place libre : 81 %
+Nombre de places libres : 0021
+Pourcentage de place libre : 28 %
 Nom du parking : GAUMONT-EST
 Nombre total de places : 0109
-Nombre de places libres : 0106
-Pourcentage de place libre : 97 %
+Nombre de places libres : 0099
+Pourcentage de place libre : 91 %
 Nom du parking : GAUMONT-OUEST
 Nombre total de places : 0250
-Nombre de places libres : 0204
-Pourcentage de place libre : 82 %
+Nombre de places libres : 0228
+Pourcentage de place libre : 91 %
 Nom du parking : CDGA
 Nombre total de places : 0260
-Nombre de places libres : 0106
-Pourcentage de place libre : 41 %
+Nombre de places libres : 0072
+Pourcentage de place libre : 28 %
+Nom du parking : ARCE
+Nombre total de places : 0230
+Nombre de places libres : 0230
+Pourcentage de place libre : 100 %
+Nom du parking : POLY
+Nombre total de places : 1911
+Nombre de places libres : 1448
+Pourcentage de place libre : 76 %
+Nom du parking : ANTI
+Nombre total de places : 0239
+Nombre de places libres : 0133
+Pourcentage de place libre : 56 %
+Nom du parking : COME
+Nombre total de places : 0835
+Nombre de places libres : 0424
+Pourcentage de place libre : 51 %
+Nom du parking : CORU
+Nombre total de places : 0430
+Nombre de places libres : 0225
+Pourcentage de place libre : 52 %
+Nom du parking : EURO
+Nombre total de places : 0593
+Nombre de places libres : 0308
+Pourcentage de place libre : 52 %
+Nom du parking : FOCH
+Nombre total de places : 0540
+Nombre de places libres : 0183
+Pourcentage de place libre : 34 %
+Nom du parking : GAMB
+Nombre total de places : 0470
+Nombre de places libres : 0101
+Pourcentage de place libre : 21 %
+Nom du parking : GARE
+Nombre total de places : 656
+Nombre de places libres : 323
+Pourcentage de place libre : 49 %
+Nom du parking : Triangle
+Nombre total de places : 436
+Nombre de places libres : 147
+Pourcentage de place libre : 34 %
+Nom du parking : ARCT
+Nombre total de places : 0460
+Nombre de places libres : 0128
+Pourcentage de place libre : 28 %
+Nom du parking : Pitot
+Nombre total de places : 588
+Nombre de places libres : 263
+Pourcentage de place libre : 45 %
+Nom du parking : CIRC
+Nombre total de places : 1200
+Nombre de places libres : 0585
+Pourcentage de place libre : 49 %
+Nom du parking : SABI
+Nombre total de places : 0485
+Nombre de places libres : 0264
+Pourcentage de place libre : 54 %
+Nom du parking : GARD
+Nombre total de places : 0395
+Nombre de places libres : 0214
+Pourcentage de place libre : 54 %
+Nom du parking : SABL
+Nombre total de places : 0372
+Nombre de places libres : 0089
+Pourcentage de place libre : 24 %
+Nom du parking : MOSS
+Nombre total de places : 0423
+Nombre de places libres : 0298
+Pourcentage de place libre : 70 %
+Nom du parking : SJLC
+Nombre total de places : 0290
+Nombre de places libres : 0157
+Pourcentage de place libre : 54 %
+Nom du parking : MEDC
+Nombre total de places : 0255
+Nombre de places libres : 0100
+Pourcentage de place libre : 39 %
+Nom du parking : OCCI
+Nombre total de places : 0627
+Nombre de places libres : 0303
+Pourcentage de place libre : 48 %
+Nom du parking : VICA
+Nombre total de places : 0074
+Nombre de places libres : 0021
+Pourcentage de place libre : 28 %
+Nom du parking : GAUMONT-EST
+Nombre total de places : 0109
+Nombre de places libres : 0099
+Pourcentage de place libre : 91 %
+Nom du parking : GAUMONT-OUEST
+Nombre total de places : 0250
+Nombre de places libres : 0228
+Pourcentage de place libre : 91 %
+Nom du parking : CDGA
+Nombre total de places : 0260
+Nombre de places libres : 0072
+Pourcentage de place libre : 28 %
+Nom du parking : ARCE
+Nombre total de places : 0230
+Nombre de places libres : 0230
+Pourcentage de place libre : 100 %
+Nom du parking : POLY
+Nombre total de places : 1911
+Nombre de places libres : 1448
+Pourcentage de place libre : 76 %
+Nom du parking : ANTI
+Nombre total de places : 0239
+Nombre de places libres : 0133
+Pourcentage de place libre : 56 %
+Nom du parking : COME
+Nombre total de places : 0835
+Nombre de places libres : 0424
+Pourcentage de place libre : 51 %
+Nom du parking : CORU
+Nombre total de places : 0430
+Nombre de places libres : 0225
+Pourcentage de place libre : 52 %
+Nom du parking : EURO
+Nombre total de places : 0593
+Nombre de places libres : 0308
+Pourcentage de place libre : 52 %
+Nom du parking : FOCH
+Nombre total de places : 0540
+Nombre de places libres : 0183
+Pourcentage de place libre : 34 %
+Nom du parking : GAMB
+Nombre total de places : 0470
+Nombre de places libres : 0101
+Pourcentage de place libre : 21 %
+Nom du parking : GARE
+Nombre total de places : 656
+Nombre de places libres : 323
+Pourcentage de place libre : 49 %
+Nom du parking : Triangle
+Nombre total de places : 436
+Nombre de places libres : 147
+Pourcentage de place libre : 34 %
+Nom du parking : ARCT
+Nombre total de places : 0460
+Nombre de places libres : 0128
+Pourcentage de place libre : 28 %
+Nom du parking : Pitot
+Nombre total de places : 588
+Nombre de places libres : 263
+Pourcentage de place libre : 45 %
+Nom du parking : CIRC
+Nombre total de places : 1200
+Nombre de places libres : 0585
+Pourcentage de place libre : 49 %
+Nom du parking : SABI
+Nombre total de places : 0485
+Nombre de places libres : 0264
+Pourcentage de place libre : 54 %
+Nom du parking : GARD
+Nombre total de places : 0395
+Nombre de places libres : 0214
+Pourcentage de place libre : 54 %
+Nom du parking : SABL
+Nombre total de places : 0372
+Nombre de places libres : 0089
+Pourcentage de place libre : 24 %
+Nom du parking : MOSS
+Nombre total de places : 0423
+Nombre de places libres : 0298
+Pourcentage de place libre : 70 %
+Nom du parking : SJLC
+Nombre total de places : 0290
+Nombre de places libres : 0157
+Pourcentage de place libre : 54 %
+Nom du parking : MEDC
+Nombre total de places : 0255
+Nombre de places libres : 0100
+Pourcentage de place libre : 39 %
+Nom du parking : OCCI
+Nombre total de places : 0627
+Nombre de places libres : 0303
+Pourcentage de place libre : 48 %
+Nom du parking : VICA
+Nombre total de places : 0074
+Nombre de places libres : 0021
+Pourcentage de place libre : 28 %
+Nom du parking : GAUMONT-EST
+Nombre total de places : 0109
+Nombre de places libres : 0099
+Pourcentage de place libre : 91 %
+Nom du parking : GAUMONT-OUEST
+Nombre total de places : 0250
+Nombre de places libres : 0228
+Pourcentage de place libre : 91 %
+Nom du parking : CDGA
+Nombre total de places : 0260
+Nombre de places libres : 0072
+Pourcentage de place libre : 28 %
+Nom du parking : ARCE
+Nombre total de places : 0230
+Nombre de places libres : 0230
+Pourcentage de place libre : 100 %
+Nom du parking : POLY
+Nombre total de places : 1911
+Nombre de places libres : 1448
+Pourcentage de place libre : 76 %
+Nom du parking : ANTI
+Nombre total de places : 0239
+Nombre de places libres : 0133
+Pourcentage de place libre : 56 %
+Nom du parking : COME
+Nombre total de places : 0835
+Nombre de places libres : 0414
+Pourcentage de place libre : 50 %
+Nom du parking : CORU
+Nombre total de places : 0430
+Nombre de places libres : 0226
+Pourcentage de place libre : 53 %
+Nom du parking : EURO
+Nombre total de places : 0593
+Nombre de places libres : 0308
+Pourcentage de place libre : 52 %
+Nom du parking : FOCH
+Nombre total de places : 0540
+Nombre de places libres : 0183
+Pourcentage de place libre : 34 %
+Nom du parking : GAMB
+Nombre total de places : 0470
+Nombre de places libres : 0100
+Pourcentage de place libre : 21 %
+Nom du parking : GARE
+Nombre total de places : 656
+Nombre de places libres : 356
+Pourcentage de place libre : 54 %
+Nom du parking : Triangle
+Nombre total de places : 436
+Nombre de places libres : 145
+Pourcentage de place libre : 33 %
+Nom du parking : ARCT
+Nombre total de places : 0460
+Nombre de places libres : 0128
+Pourcentage de place libre : 28 %
+Nom du parking : Pitot
+Nombre total de places : 588
+Nombre de places libres : 262
+Pourcentage de place libre : 45 %
+Nom du parking : CIRC
+Nombre total de places : 1200
+Nombre de places libres : 0585
+Pourcentage de place libre : 49 %
+Nom du parking : SABI
+Nombre total de places : 0485
+Nombre de places libres : 0262
+Pourcentage de place libre : 54 %
+Nom du parking : GARD
+Nombre total de places : 0395
+Nombre de places libres : 0214
+Pourcentage de place libre : 54 %
+Nom du parking : SABL
+Nombre total de places : 0372
+Nombre de places libres : 0089
+Pourcentage de place libre : 24 %
+Nom du parking : MOSS
+Nombre total de places : 0423
+Nombre de places libres : 0298
+Pourcentage de place libre : 70 %
+Nom du parking : SJLC
+Nombre total de places : 0290
+Nombre de places libres : 0157
+Pourcentage de place libre : 54 %
+Nom du parking : MEDC
+Nombre total de places : 0255
+Nombre de places libres : 0100
+Pourcentage de place libre : 39 %
+Nom du parking : OCCI
+Nombre total de places : 0627
+Nombre de places libres : 0303
+Pourcentage de place libre : 48 %
+Nom du parking : VICA
+Nombre total de places : 0074
+Nombre de places libres : 0021
+Pourcentage de place libre : 28 %
+Nom du parking : GAUMONT-EST
+Nombre total de places : 0109
+Nombre de places libres : 0098
+Pourcentage de place libre : 90 %
+Nom du parking : GAUMONT-OUEST
+Nombre total de places : 0250
+Nombre de places libres : 0228
+Pourcentage de place libre : 91 %
+Nom du parking : CDGA
+Nombre total de places : 0260
+Nombre de places libres : 0072
+Pourcentage de place libre : 28 %
+Nom du parking : ARCE
+Nombre total de places : 0230
+Nombre de places libres : 0230
+Pourcentage de place libre : 100 %
+Nom du parking : POLY
+Nombre total de places : 1911
+Nombre de places libres : 1448
+Pourcentage de place libre : 76 %
+Nom du parking : ANTI
+Nombre total de places : 0239
+Nombre de places libres : 0133
+Pourcentage de place libre : 56 %
+Nom du parking : COME
+Nombre total de places : 0835
+Nombre de places libres : 0414
+Pourcentage de place libre : 50 %
+Nom du parking : CORU
+Nombre total de places : 0430
+Nombre de places libres : 0226
+Pourcentage de place libre : 53 %
+Nom du parking : EURO
+Nombre total de places : 0593
+Nombre de places libres : 0308
+Pourcentage de place libre : 52 %
+Nom du parking : FOCH
+Nombre total de places : 0540
+Nombre de places libres : 0183
+Pourcentage de place libre : 34 %
+Nom du parking : GAMB
+Nombre total de places : 0470
+Nombre de places libres : 0100
+Pourcentage de place libre : 21 %
+Nom du parking : GARE
+Nombre total de places : 656
+Nombre de places libres : 356
+Pourcentage de place libre : 54 %
+Nom du parking : Triangle
+Nombre total de places : 436
+Nombre de places libres : 145
+Pourcentage de place libre : 33 %
+Nom du parking : ARCT
+Nombre total de places : 0460
+Nombre de places libres : 0128
+Pourcentage de place libre : 28 %
+Nom du parking : Pitot
+Nombre total de places : 588
+Nombre de places libres : 262
+Pourcentage de place libre : 45 %
+Nom du parking : CIRC
+Nombre total de places : 1200
+Nombre de places libres : 0585
+Pourcentage de place libre : 49 %
+Nom du parking : SABI
+Nombre total de places : 0485
+Nombre de places libres : 0262
+Pourcentage de place libre : 54 %
+Nom du parking : GARD
+Nombre total de places : 0395
+Nombre de places libres : 0214
+Pourcentage de place libre : 54 %
+Nom du parking : SABL
+Nombre total de places : 0372
+Nombre de places libres : 0089
+Pourcentage de place libre : 24 %
+Nom du parking : MOSS
+Nombre total de places : 0423
+Nombre de places libres : 0298
+Pourcentage de place libre : 70 %
+Nom du parking : SJLC
+Nombre total de places : 0290
+Nombre de places libres : 0157
+Pourcentage de place libre : 54 %
+Nom du parking : MEDC
+Nombre total de places : 0255
+Nombre de places libres : 0100
+Pourcentage de place libre : 39 %
+Nom du parking : OCCI
+Nombre total de places : 0627
+Nombre de places libres : 0303
+Pourcentage de place libre : 48 %
+Nom du parking : VICA
+Nombre total de places : 0074
+Nombre de places libres : 0021
+Pourcentage de place libre : 28 %
+Nom du parking : GAUMONT-EST
+Nombre total de places : 0109
+Nombre de places libres : 0098
+Pourcentage de place libre : 90 %
+Nom du parking : GAUMONT-OUEST
+Nombre total de places : 0250
+Nombre de places libres : 0228
+Pourcentage de place libre : 91 %
+Nom du parking : CDGA
+Nombre total de places : 0260
+Nombre de places libres : 0072
+Pourcentage de place libre : 28 %
+Nom du parking : ARCE
+Nombre total de places : 0230
+Nombre de places libres : 0230
+Pourcentage de place libre : 100 %
+Nom du parking : POLY
+Nombre total de places : 1911
+Nombre de places libres : 1448
+Pourcentage de place libre : 76 %
+Nom du parking : ANTI
+Nombre total de places : 0239
+Nombre de places libres : 0133
+Pourcentage de place libre : 56 %
+Nom du parking : COME
+Nombre total de places : 0835
+Nombre de places libres : 0414
+Pourcentage de place libre : 50 %
+Nom du parking : CORU
+Nombre total de places : 0430
+Nombre de places libres : 0226
+Pourcentage de place libre : 53 %
+Nom du parking : EURO
+Nombre total de places : 0593
+Nombre de places libres : 0308
+Pourcentage de place libre : 52 %
+Nom du parking : FOCH
+Nombre total de places : 0540
+Nombre de places libres : 0183
+Pourcentage de place libre : 34 %
+Nom du parking : GAMB
+Nombre total de places : 0470
+Nombre de places libres : 0100
+Pourcentage de place libre : 21 %
+Nom du parking : GARE
+Nombre total de places : 656
+Nombre de places libres : 356
+Pourcentage de place libre : 54 %
+Nom du parking : Triangle
+Nombre total de places : 436
+Nombre de places libres : 145
+Pourcentage de place libre : 33 %
+Nom du parking : ARCT
+Nombre total de places : 0460
+Nombre de places libres : 0128
+Pourcentage de place libre : 28 %
+Nom du parking : Pitot
+Nombre total de places : 588
+Nombre de places libres : 262
+Pourcentage de place libre : 45 %
+Nom du parking : CIRC
+Nombre total de places : 1200
+Nombre de places libres : 0585
+Pourcentage de place libre : 49 %
+Nom du parking : SABI
+Nombre total de places : 0485
+Nombre de places libres : 0262
+Pourcentage de place libre : 54 %
+Nom du parking : GARD
+Nombre total de places : 0395
+Nombre de places libres : 0214
+Pourcentage de place libre : 54 %
+Nom du parking : SABL
+Nombre total de places : 0372
+Nombre de places libres : 0089
+Pourcentage de place libre : 24 %
+Nom du parking : MOSS
+Nombre total de places : 0423
+Nombre de places libres : 0298
+Pourcentage de place libre : 70 %
+Nom du parking : SJLC
+Nombre total de places : 0290
+Nombre de places libres : 0157
+Pourcentage de place libre : 54 %
+Nom du parking : MEDC
+Nombre total de places : 0255
+Nombre de places libres : 0100
+Pourcentage de place libre : 39 %
+Nom du parking : OCCI
+Nombre total de places : 0627
+Nombre de places libres : 0303
+Pourcentage de place libre : 48 %
+Nom du parking : VICA
+Nombre total de places : 0074
+Nombre de places libres : 0021
+Pourcentage de place libre : 28 %
+Nom du parking : GAUMONT-EST
+Nombre total de places : 0109
+Nombre de places libres : 0098
+Pourcentage de place libre : 90 %
+Nom du parking : GAUMONT-OUEST
+Nombre total de places : 0250
+Nombre de places libres : 0228
+Pourcentage de place libre : 91 %
+Nom du parking : CDGA
+Nombre total de places : 0260
+Nombre de places libres : 0072
+Pourcentage de place libre : 28 %
 Nom du parking : ARCE
 Nombre total de places : 0230
 Nombre de places libres : 0230
