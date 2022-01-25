@@ -1,0 +1,6 @@
+pip install math
+pip install numpy
+pip install matplotlib
+pip install requests
+pip install lxml
+pip install time
